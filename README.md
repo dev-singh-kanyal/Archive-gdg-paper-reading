@@ -1,15 +1,23 @@
-This repository contains a collection of paper discussions on basic computer vision concepts. Each week, we discuss a different paper and go over its main ideas and contributions.
+# Computer Vision Paper Discussions - Archived
 
-Week 1: VGG Paper Discussion
-In week 1, we discussed the VGG paper and its contributions to the field of computer vision. We covered the following topics:
+**Please note: This repository is now archived and will no longer be updated or maintained.**
 
-The motivation behind the VGG architecture
-The VGG architecture and its components
-The impact of the VGG architecture on the field of computer vision
+This repository was a collection of discussions on foundational papers in the field of computer vision. Each week, we delved into a different paper, dissecting its main ideas and contributions to the field.
 
-Week 2: ResNet Paper Discussion
-In week 2, we discussed the ResNet paper and its contributions to the field of computer vision. We covered the following topics:
+## Week 1: VGG Paper Discussion
 
-The motivation behind the ResNet architecture
-The ResNet architecture and its components
-The impact of the ResNet architecture on the field of computer vision
+In our first week, we explored the VGG paper. Our discussion covered:
+
+- The motivation behind the VGG architecture
+- An overview of the VGG architecture and its components
+- The impact of the VGG architecture on the field of computer vision
+
+## Week 2: ResNet Paper Discussion
+
+In our second week, we turned our attention to the ResNet paper. Our discussion included:
+
+- The motivation behind the ResNet architecture
+- An overview of the ResNet architecture and its components
+- The impact of the ResNet architecture on the field of computer vision
+
+We hope these discussions provided valuable insights into the evolution of computer vision and inspired further exploration of this fascinating field.
